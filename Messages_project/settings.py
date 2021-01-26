@@ -80,8 +80,8 @@ DATABASES = {
         'NAME': 'database name',
         'USER': 'database user',
         'PASSWORD': 'database password',
-        'HOST': 'database endpoint',
-        'PORT': 'database port'
+        'HOST': '127.0.0.1',
+        'PORT': '5432',
     }
 }
 
